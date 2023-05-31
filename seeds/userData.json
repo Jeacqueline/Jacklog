@@ -28,6 +28,11 @@
     "username": "rex",
     "email": "rex@test.com",
     "password": "test542"
+  },  
+  {
+    "username": "jeacqueline",
+    "email": "jeacky@test.com",
+    "password": "password542"
   }
 
 ]
