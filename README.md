@@ -20,7 +20,7 @@ I used the following files as a guide:
 * HTML/CSS
 
 ## Installation
-- Clone the repository: git clone 
+- Clone the repository: git clone git@github.com:Jeacqueline/Jacklog.git
 - Navigate to the project directory: cd jacklog
 - Install the dependencies: npm install
 - Configure the database: mysql -u root -p
@@ -35,5 +35,8 @@ Access the application in your browser: http://localhost:3000
 
 
 ![Reference image.](./images/jacklog.png)
+![Reference image.](./images/heroku.png)
 
 [Repository Jacklog](https://github.com/Jeacqueline/Jacklog)
+
+[Heroku Jacklog](https://jacklog.herokuapp.com/)
