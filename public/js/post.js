@@ -17,7 +17,7 @@ const newFormHandler = async (event) => {
       if (response.ok) {
         document.location.replace('/post');
       } else {
-        alert('Failed to create post');
+        alert('Failed!');
       }
     }
   };
@@ -33,7 +33,7 @@ const newFormHandler = async (event) => {
       if (response.ok) {
         document.location.replace('/post');
       } else {
-        alert('Failed to delete post');
+        alert('Failed!');
       }
     }
   };

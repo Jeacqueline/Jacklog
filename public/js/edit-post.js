@@ -26,7 +26,7 @@ const editFormHandler = async (event) => {
   if (response.ok) {
     document.location.replace('/dashboard');
   } else {
-    alert('Failed to update your post');
+    alert('Failed');
   }
   document.location.replace('/dashboard');
 };
