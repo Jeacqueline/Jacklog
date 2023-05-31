@@ -34,6 +34,7 @@ Access the application in your browser: http://localhost:3000
 
 
 ![Reference image.](./images/jacklog.png)
+
 ![Reference image.](./images/heroku.png)
 
 [Repository Jacklog](https://github.com/Jeacqueline/Jacklog)
