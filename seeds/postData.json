@@ -1,0 +1,32 @@
+[
+  {
+    "post_title": "My new post ",
+    "post_content": "This is incredible.",
+    "date_created": "05/05/23"
+  },
+  {
+    "post_title": "My first post",
+    "post_content": "This could be awesome",
+    "date_created": "12/07/23"
+  },
+  {
+    "post_title": "Test Post",
+    "post_content": "I like to play",
+    "date_created": "04/03/23"
+  },
+  {
+    "post_title": "New Post Title 1",
+    "post_content": "New Post Content 1",
+    "date_created": "01/04/23"
+  },
+  {
+    "post_title": "New Post Title 2",
+    "post_content": "New Post Content 2",
+    "date_created": "12/04/23"
+  },
+  {
+    "post_title": "New Post Title 3",
+    "post_content": "New Post Content 3",
+    "date_created": "02/09/23"
+  }
+]

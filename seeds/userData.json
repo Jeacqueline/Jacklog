@@ -1,0 +1,33 @@
+[
+  {
+    "username": "jack",
+    "email": "jack@test.com",
+    "password": "test123"
+  },
+  {
+    "username": "zenitsu",
+    "email": "zenitsu@test.com",
+    "password": "test456"
+  },
+  {
+    "username": "anya",
+    "email": "anya@test.com",
+    "password": "test129"
+  },
+  {
+    "username": "panda",
+    "email": "panda@test.com",
+    "password": "test173"
+  },
+  {
+    "username": "moana",
+    "email": "moana@test.com",
+    "password": "test890"
+  },
+  {
+    "username": "rex",
+    "email": "rex@test.com",
+    "password": "test542"
+  }
+
+]

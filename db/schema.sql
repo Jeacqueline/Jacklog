@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS jacklog_db;
+CREATE DATABASE jacklog_db;
