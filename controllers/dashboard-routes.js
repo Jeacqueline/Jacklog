@@ -4,12 +4,10 @@ const withAuth = require('../utils/auth');
 
 router.get('/dashboard', withAuth, async (req, res) => {
   try {
-
     const postData = await Post.findAll({
       where:{"userId": req.session.user_id},
       include: [User]
     });
-
     const posts = postData.map((post) => post.get({ plain: true }));
 
 console.log(posts);
