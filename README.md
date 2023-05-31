@@ -26,7 +26,6 @@ I used the following files as a guide:
 - Configure the database: mysql -u root -p
 - Create a MySQL database.
 - Rename the .env.example file to .env and configure the - environment variables related to the database.
-- Run the database migrations: npm run db:migrate
 
 
 ## Usage
